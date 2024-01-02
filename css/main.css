@@ -85,7 +85,7 @@ input, select, textarea {
 	html {
 		background-color: #4f8da2;
 		background-attachment: fixed,						fixed;
-		background-image: url("images/overlay.png"), url("../../images/Ocean.png");
+		background-image: url("images/overlay.png"), url("images/Ocean.png");
 		background-position: top left,					center center;
 		background-repeat: repeat,						none;
 		background-size: auto,						cover;
