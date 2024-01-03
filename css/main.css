@@ -29,7 +29,9 @@ figure {
   	list-style: none;
   	display: flex;
   	align-items: center;
-  	justify-content: center;}
+  	justify-content: center;
+	max-width: calc(100% - 4em);
+	width: 35em;}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
