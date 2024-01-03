@@ -2742,11 +2742,6 @@ input, select, textarea {
 			display: none;
 		}
 
-		.main .image.supplementary {
-			display:inline-block
-			vertical align: middle
-		}
-
 		.main .container {
 			padding: 5em 2.5em 8em 2.5em ;
 			background: rgba(255, 255, 255, 0.95);
