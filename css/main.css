@@ -21,7 +21,8 @@ section, summary, time, mark, audio, video {
 	vertical-align: baseline;}
 
 figcaption {
-	background-color: white;}
+	background-color: white;
+	width: }
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -258,6 +259,8 @@ input, select, textarea {
 		margin: 0 auto;
 		max-width: calc(100% - 4em);
 		width: 35em;
+		height: auto !important;
+		min-height: 100%
 	}
 
 		.container.xsmall {
