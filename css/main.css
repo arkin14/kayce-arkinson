@@ -22,7 +22,9 @@ section, summary, time, mark, audio, video {
 
 figcaption {
 	background-color: white;
-	width: }
+	overflow: hidden; }
+figure {
+	position: absolute;}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
